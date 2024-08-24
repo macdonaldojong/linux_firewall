@@ -9,7 +9,7 @@
   - Unattended Updates
   - Public Key Infrastructure and SSL/TLS Encryption
 
-## linux_firewall implementation (Ubuntu, centos, ........)
+### linux_firewall implementation (Ubuntu, centos, ........)
 * For Ubuntu (ufw):
 - https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu
 
