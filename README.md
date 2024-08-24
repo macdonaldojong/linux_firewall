@@ -8,8 +8,10 @@
   - Service Auditing
   - Unattended Updates
   - Public Key Infrastructure and SSL/TLS Encryption
-* linux_firewall implementation (Ubuntu, centos, ........)
-# For Ubuntu (ufw):
+
+# linux_firewall implementation (Ubuntu, centos, ........)
+* For Ubuntu (ufw):
 https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu
-# For Redhat(firewalls):
+
+* For Redhat(firewalls):
 https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-firewalld-on-centos
